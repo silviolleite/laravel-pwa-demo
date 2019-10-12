@@ -135,6 +135,24 @@ For this I am using the following libraries versions.
 
 ## Run the demo project
 
+install dependences
+
+```console
+composer install
+```
+
+Creating the `.env`
+
+```console
+cp .env.example .env
+```
+
+Generating the key.
+
+```console
+php artisan key:generate
+```
+
 To run this project you must use the Laravel Artisan serve command.
 ```console
 php artisan serve
