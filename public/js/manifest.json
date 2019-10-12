@@ -1,0 +1,9 @@
+{
+  "name": "My Progressive Web Application",
+  "short_name": "Progressive",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#00dd00",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}

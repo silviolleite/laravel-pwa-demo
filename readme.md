@@ -1,6 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-## Laravel PWA Demo
+## Laravel PWA Demo - Custom Manifest
 
 This demo is showing how to use the `laravel-pwa`.
 
