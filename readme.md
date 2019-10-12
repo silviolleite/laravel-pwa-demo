@@ -2,6 +2,10 @@
 
 ## Laravel PWA Demo - Custom Manifest
 
+Working!
+
+![](https://github.com/silviolleite/laravel-pwa-demo/blob/demo/custom-manifest/image-example/custom-manifest.png)
+
 This demo is showing how to use the `laravel-pwa`.
 
 For this I am using the following libraries versions.
